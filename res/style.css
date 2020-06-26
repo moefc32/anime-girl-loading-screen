@@ -1,0 +1,192 @@
+@keyframes anime {
+
+    10% {
+        background:
+            url(l.svg) calc(100% - 325px) calc(100% - 40px) no-repeat,
+            url(o.svg) calc(100% - 303px) calc(100% - 50px) no-repeat,
+            url(a.svg) calc(100% - 275px) calc(100% - 40px) no-repeat,
+            url(d.svg) calc(100% - 250px) calc(100% - 40px) no-repeat,
+            url(i.svg) calc(100% - 220px) calc(100% - 40px) no-repeat,
+            url(n.svg) calc(100% - 207px) calc(100% - 40px) no-repeat,
+            url(g.svg) calc(100% - 181px) calc(100% - 40px) no-repeat,
+            url(dot.svg) calc(100% - 155px) calc(100% - 40px) no-repeat,
+            url(dot.svg) calc(100% - 144px) calc(100% - 40px) no-repeat,
+            url(dot.svg) calc(100% - 133px) calc(100% - 40px) no-repeat,
+            url(rikka.gif) calc(100% - 50px) calc(100% - 30px) no-repeat;
+    }
+
+    20% {
+        background:
+            url(l.svg) calc(100% - 325px) calc(100% - 40px) no-repeat,
+            url(o.svg) calc(100% - 303px) calc(100% - 40px) no-repeat,
+            url(a.svg) calc(100% - 275px) calc(100% - 50px) no-repeat,
+            url(d.svg) calc(100% - 250px) calc(100% - 40px) no-repeat,
+            url(i.svg) calc(100% - 220px) calc(100% - 40px) no-repeat,
+            url(n.svg) calc(100% - 207px) calc(100% - 40px) no-repeat,
+            url(g.svg) calc(100% - 181px) calc(100% - 40px) no-repeat,
+            url(dot.svg) calc(100% - 155px) calc(100% - 40px) no-repeat,
+            url(dot.svg) calc(100% - 144px) calc(100% - 40px) no-repeat,
+            url(dot.svg) calc(100% - 133px) calc(100% - 40px) no-repeat,
+            url(rikka.gif) calc(100% - 50px) calc(100% - 30px) no-repeat;
+    }
+
+    30% {
+        background:
+            url(l.svg) calc(100% - 325px) calc(100% - 40px) no-repeat,
+            url(o.svg) calc(100% - 303px) calc(100% - 40px) no-repeat,
+            url(a.svg) calc(100% - 275px) calc(100% - 40px) no-repeat,
+            url(d.svg) calc(100% - 250px) calc(100% - 50px) no-repeat,
+            url(i.svg) calc(100% - 220px) calc(100% - 40px) no-repeat,
+            url(n.svg) calc(100% - 207px) calc(100% - 40px) no-repeat,
+            url(g.svg) calc(100% - 181px) calc(100% - 40px) no-repeat,
+            url(dot.svg) calc(100% - 155px) calc(100% - 40px) no-repeat,
+            url(dot.svg) calc(100% - 144px) calc(100% - 40px) no-repeat,
+            url(dot.svg) calc(100% - 133px) calc(100% - 40px) no-repeat,
+            url(rikka.gif) calc(100% - 50px) calc(100% - 30px) no-repeat;
+    }
+
+    40% {
+        background:
+            url(l.svg) calc(100% - 325px) calc(100% - 40px) no-repeat,
+            url(o.svg) calc(100% - 303px) calc(100% - 40px) no-repeat,
+            url(a.svg) calc(100% - 275px) calc(100% - 40px) no-repeat,
+            url(d.svg) calc(100% - 250px) calc(100% - 40px) no-repeat,
+            url(i.svg) calc(100% - 220px) calc(100% - 50px) no-repeat,
+            url(n.svg) calc(100% - 207px) calc(100% - 40px) no-repeat,
+            url(g.svg) calc(100% - 181px) calc(100% - 40px) no-repeat,
+            url(dot.svg) calc(100% - 155px) calc(100% - 40px) no-repeat,
+            url(dot.svg) calc(100% - 144px) calc(100% - 40px) no-repeat,
+            url(dot.svg) calc(100% - 133px) calc(100% - 40px) no-repeat,
+            url(rikka.gif) calc(100% - 50px) calc(100% - 30px) no-repeat;
+    }
+
+    50% {
+        background:
+            url(l.svg) calc(100% - 325px) calc(100% - 40px) no-repeat,
+            url(o.svg) calc(100% - 303px) calc(100% - 40px) no-repeat,
+            url(a.svg) calc(100% - 275px) calc(100% - 40px) no-repeat,
+            url(d.svg) calc(100% - 250px) calc(100% - 40px) no-repeat,
+            url(i.svg) calc(100% - 220px) calc(100% - 40px) no-repeat,
+            url(n.svg) calc(100% - 207px) calc(100% - 50px) no-repeat,
+            url(g.svg) calc(100% - 181px) calc(100% - 40px) no-repeat,
+            url(dot.svg) calc(100% - 155px) calc(100% - 40px) no-repeat,
+            url(dot.svg) calc(100% - 144px) calc(100% - 40px) no-repeat,
+            url(dot.svg) calc(100% - 133px) calc(100% - 40px) no-repeat,
+            url(rikka.gif) calc(100% - 50px) calc(100% - 30px) no-repeat;
+    }
+
+    60% {
+        background:
+            url(l.svg) calc(100% - 325px) calc(100% - 40px) no-repeat,
+            url(o.svg) calc(100% - 303px) calc(100% - 40px) no-repeat,
+            url(a.svg) calc(100% - 275px) calc(100% - 40px) no-repeat,
+            url(d.svg) calc(100% - 250px) calc(100% - 40px) no-repeat,
+            url(i.svg) calc(100% - 220px) calc(100% - 40px) no-repeat,
+            url(n.svg) calc(100% - 207px) calc(100% - 40px) no-repeat,
+            url(g.svg) calc(100% - 181px) calc(100% - 50px) no-repeat,
+            url(dot.svg) calc(100% - 155px) calc(100% - 40px) no-repeat,
+            url(dot.svg) calc(100% - 144px) calc(100% - 40px) no-repeat,
+            url(dot.svg) calc(100% - 133px) calc(100% - 40px) no-repeat,
+            url(rikka.gif) calc(100% - 50px) calc(100% - 30px) no-repeat;
+    }
+
+    70% {
+        background:
+            url(l.svg) calc(100% - 325px) calc(100% - 40px) no-repeat,
+            url(o.svg) calc(100% - 303px) calc(100% - 40px) no-repeat,
+            url(a.svg) calc(100% - 275px) calc(100% - 40px) no-repeat,
+            url(d.svg) calc(100% - 250px) calc(100% - 40px) no-repeat,
+            url(i.svg) calc(100% - 220px) calc(100% - 40px) no-repeat,
+            url(n.svg) calc(100% - 207px) calc(100% - 40px) no-repeat,
+            url(g.svg) calc(100% - 181px) calc(100% - 40px) no-repeat,
+            url(dot.svg) calc(100% - 155px) calc(100% - 50px) no-repeat,
+            url(dot.svg) calc(100% - 144px) calc(100% - 40px) no-repeat,
+            url(dot.svg) calc(100% - 133px) calc(100% - 40px) no-repeat,
+            url(rikka.gif) calc(100% - 50px) calc(100% - 30px) no-repeat;
+    }
+
+    80% {
+        background:
+            url(l.svg) calc(100% - 325px) calc(100% - 40px) no-repeat,
+            url(o.svg) calc(100% - 303px) calc(100% - 40px) no-repeat,
+            url(a.svg) calc(100% - 275px) calc(100% - 40px) no-repeat,
+            url(d.svg) calc(100% - 250px) calc(100% - 40px) no-repeat,
+            url(i.svg) calc(100% - 220px) calc(100% - 40px) no-repeat,
+            url(n.svg) calc(100% - 207px) calc(100% - 40px) no-repeat,
+            url(g.svg) calc(100% - 181px) calc(100% - 40px) no-repeat,
+            url(dot.svg) calc(100% - 155px) calc(100% - 40px) no-repeat,
+            url(dot.svg) calc(100% - 144px) calc(100% - 50px) no-repeat,
+            url(dot.svg) calc(100% - 133px) calc(100% - 40px) no-repeat,
+            url(rikka.gif) calc(100% - 50px) calc(100% - 30px) no-repeat;
+    }
+
+    90% {
+        background:
+            url(l.svg) calc(100% - 325px) calc(100% - 40px) no-repeat,
+            url(o.svg) calc(100% - 303px) calc(100% - 40px) no-repeat,
+            url(a.svg) calc(100% - 275px) calc(100% - 40px) no-repeat,
+            url(d.svg) calc(100% - 250px) calc(100% - 40px) no-repeat,
+            url(i.svg) calc(100% - 220px) calc(100% - 40px) no-repeat,
+            url(n.svg) calc(100% - 207px) calc(100% - 40px) no-repeat,
+            url(g.svg) calc(100% - 181px) calc(100% - 40px) no-repeat,
+            url(dot.svg) calc(100% - 155px) calc(100% - 40px) no-repeat,
+            url(dot.svg) calc(100% - 144px) calc(100% - 40px) no-repeat,
+            url(dot.svg) calc(100% - 133px) calc(100% - 50px) no-repeat,
+            url(rikka.gif) calc(100% - 50px) calc(100% - 30px) no-repeat;
+    }
+
+    0%,
+    100% {
+        background:
+            url(l.svg) calc(100% - 325px) calc(100% - 50px) no-repeat,
+            url(o.svg) calc(100% - 303px) calc(100% - 40px) no-repeat,
+            url(a.svg) calc(100% - 275px) calc(100% - 40px) no-repeat,
+            url(d.svg) calc(100% - 250px) calc(100% - 40px) no-repeat,
+            url(i.svg) calc(100% - 220px) calc(100% - 40px) no-repeat,
+            url(n.svg) calc(100% - 207px) calc(100% - 40px) no-repeat,
+            url(g.svg) calc(100% - 181px) calc(100% - 40px) no-repeat,
+            url(dot.svg) calc(100% - 155px) calc(100% - 40px) no-repeat,
+            url(dot.svg) calc(100% - 144px) calc(100% - 40px) no-repeat,
+            url(dot.svg) calc(100% - 133px) calc(100% - 40px) no-repeat,
+            url(rikka.gif) calc(100% - 50px) calc(100% - 30px) no-repeat;
+    }
+}
+
+* {
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: none !important;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 30px;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    line-height: 1.618em;
+    color: #424242;
+    overflow: hidden;
+}
+
+.notice {
+    width: 80%;
+    margin-top: -30px;
+    padding-top: 175px;
+    background: url(kofuku.gif) center top no-repeat;
+}
+
+@media (min-width: 450px) {
+    body {
+        animation: anime 1.25s infinite;
+    }
+
+    .notice {
+        display: none;
+    }
+}
