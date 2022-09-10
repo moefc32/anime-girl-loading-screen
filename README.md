@@ -1,4 +1,4 @@
-# Anime-Girl-Loading-Screen
+# Anime Girl Loading Screen
 Contoh animasi pada loading screen untuk halaman HTML.
 No JavaScript, just pure HTML and CSS.
 
